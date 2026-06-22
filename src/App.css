@@ -1,0 +1,17 @@
+.page-placeholder {
+  padding: 32px 24px;
+  border: 1px solid #d7d7d7;
+  border-radius: 12px;
+  background: #ffffff;
+}
+
+.page-placeholder h1 {
+  margin: 0 0 12px;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.page-placeholder p {
+  margin: 0;
+  color: #64748b;
+}
